@@ -6,6 +6,7 @@ def using_unshift(array, String)
 end
 def using_pop(array)
   array.pop
+<<<<<<< HEAD
 end
 def pop_with_args(array, String)
   array.pop(2)
@@ -34,3 +35,6 @@ end
 def using_delete_at(array, Integer)
   array.delete_at(Integer)
 end
+=======
+end
+>>>>>>> f299fd2927eaf328dc2bc520a8c5f441ccb0d0e9
